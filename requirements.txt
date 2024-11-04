@@ -1,2 +1,2 @@
-git+https://github.com/flyteorg/flytekit@3e3ec17ea
-git+https://github.com/unionai/unionai@e40a514
+flytekit==1.14.0b5
+union
