@@ -22,3 +22,9 @@ Then, you can run the workspace with:
 ```bash
 union create workspace workspace.yaml
 ```
+
+Delete it with:
+
+```bash
+union delete workspace jupyter-notebook-workshop
+```
