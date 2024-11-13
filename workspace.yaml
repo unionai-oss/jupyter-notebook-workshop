@@ -1,0 +1,13 @@
+name: jupyter-notebook-workshop
+project: flytesnacks
+domain: development
+
+resources:
+    cpu: "2"
+    mem: "4Gi"
+    gpu: null
+
+workspace_root: ~/workspace
+on_startup: git clone https://github.com/unionai-oss/jupyter-notebook-workshop.git
+metadata: null
+ttl_seconds: 1200
